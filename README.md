@@ -3,8 +3,8 @@
 Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marinheiro onde tive contato com tecnlogias web front end.
 
 ## Onde me encontrar
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquemaverik/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ca%C3%ADque-pereira-da-silva-41b0a3207/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquepe.dasilva/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquepedasilva/)
 
 ## Meu desempenho
 ![caiquemaverik2 GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquemaverik2&show_icons=true&theme=radical)
