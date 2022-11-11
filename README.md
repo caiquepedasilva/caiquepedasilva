@@ -16,4 +16,7 @@ Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marin
   <img align="center"alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center"alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img align="center"alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
+  ![Snake animation](https://github.com/caiquepedasilva/caiquepedasilva/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
