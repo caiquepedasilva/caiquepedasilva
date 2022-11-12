@@ -6,9 +6,9 @@ Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marin
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquepe.dasilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquepedasilva/)
 
-## Meu desempenho
-![caiquepedasilva GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquepedasilva&show_icons=true&theme=radical)
-![caiquepedasilva GitHub lang top](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&langs_count=7&theme=dracula)
+## GitHub Analytics 👨🏾‍💻
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=caiquepedasilva&show_icons=true&theme=radical" alt="caiquepedasilva's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&langs_count=7&theme=dracula" alt="caiquepedasilva's most languages"/>
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
