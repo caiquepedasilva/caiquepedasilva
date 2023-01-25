@@ -8,6 +8,7 @@ Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marin
 
 ## GitHub Analytics 👨🏾‍💻
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=caiquepedasilva&show_icons=true&theme=radical" alt="caiquepedasilva's stats"/>
+![radical_repo]:(https://github-readme-stats.vercel.app/api/pin/?username=caiquepedasilva&repo=github-readme-stats&cache_seconds=86400&theme=radical)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
