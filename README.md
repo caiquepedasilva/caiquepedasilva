@@ -11,6 +11,12 @@ Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marin
 <img style="height: auto; width: 55%;" src="https://streak-stats.demolab.com/?user=caiquepedasilva&theme=radical" />
 <img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&theme=radical"/>
 
+<div align="center">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquepedasilva&repo=github-readme-stats&hide_border=true&cache_seconds=86400&theme=radical&bg_color=0d1117" alt="caiquepedasilva's stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://streak-stats.demolab.com/?user=caiquepedasilva&theme=radical&hide_border=true" /> 
+</div>
+
 ## Tecnologias
 <div style="display: inline_block"><br/>
   <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
