@@ -7,10 +7,6 @@ Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marin
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquepedasilva/)
 
 ## GitHub Analytics 👨🏾‍💻
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquepedasilva&repo=github-readme-stats&cache_seconds=86400&theme=radical" alt="caiquepedasilva's stats"/>
-<img style="height: auto; width: 55%;" src="https://streak-stats.demolab.com/?user=caiquepedasilva&theme=radical" />
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&theme=radical"/>
-
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquepedasilva&repo=github-readme-stats&hide_border=true&cache_seconds=86400&theme=radical&bg_color=0d1117" alt="caiquepedasilva's stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
