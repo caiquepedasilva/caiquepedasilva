@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-### Olá! Eu sou o Caíque Silva 🏆
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caíque+Silva;I'm+28+years+old;I'm+from+Brazil;Developer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="justify">
 Sou discente no instituto federal, aonde encontrei minha paixão pelo desenvolvimento web e a cada dia me aprofundo mais em conhecimento, tanto em sala com docentes/discentes e fora com amigos no âmbito profissional/redes de aprendizagem.
 Amante da tecnologia e suas tendências, sempre em busca de novos conhecimentos para agregar na carreira e vida. 
