@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Caíque Silva 🏆
-
-Sou estudante de Sistemas para internet, tenho experiência de 8 anos como marinheiro onde tive contato com tecnlogias web front end.
+<div align="justify">
+Sou discente no instituto federal, aonde encontrei minha paixão pelo desenvolvimento web e a cada dia me aprofundo mais em conhecimento, tanto em sala com docentes/discentes e fora com amigos no âmbito profissional/redes de aprendizagem.
+Amante da tecnologia e suas tendências, sempre em busca de novos conhecimentos para agregar na carreira e vida. 
+</div>
 
 ## Onde me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquepe.dasilva/)
