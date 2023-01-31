@@ -6,9 +6,11 @@
 I am a student at the federal institute, where I found my passion for web development and every day I deepen my knowledge, both in the classroom with professors/students and outside with friends in the professional field/learning networks. Lover of technology and its trends, always looking for new knowledge to add to his career and life.
 </div>
 
-## where to find me
+## 🔗 Links
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquepe.dasilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquepedasilva/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquepe.dasilva@gmail.com)
 
 ### Main skills:
