@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caíque+Silva;I'm+28+years+old;I'm+from+Brazil;Developer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="justify">
-Sou discente no instituto federal, aonde encontrei minha paixão pelo desenvolvimento web e a cada dia me aprofundo mais em conhecimento, tanto em sala com docentes/discentes e fora com amigos no âmbito profissional/redes de aprendizagem.
-Amante da tecnologia e suas tendências, sempre em busca de novos conhecimentos para agregar na carreira e vida. 
+I am a student at the federal institute, where I found my passion for web development and every day I deepen my knowledge, both in the classroom with professors/students and outside with friends in the professional field/learning networks. Lover of technology and its trends, always looking for new knowledge to add to his career and life.
 </div>
 
-## Onde me encontrar
+## where to find me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiquepe.dasilva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquepedasilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquepe.dasilva@gmail.com)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -18,8 +18,6 @@ Amante da tecnologia e suas tendências, sempre em busca de novos conhecimentos 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -29,7 +27,7 @@ Amante da tecnologia e suas tendências, sempre em busca de novos conhecimentos 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
 ## GitHub Analytics 👨🏾‍💻
