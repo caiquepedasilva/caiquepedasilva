@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caíque+Silva;I'm+28+years+old;I'm+from+Brazil;Developer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Caíque+Silva;Tenho+28+anos;Sou+Brasileiro!;Desenvolverdor+em+Treinamento;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="justify">
-I am a student at the federal institute, where I found my passion for web development and every day I deepen my knowledge, both in the classroom with professors/students and outside with friends in the professional field/learning networks. Lover of technology and its trends, always looking for new knowledge to add to his career and life.
+Sou aluno do instituto federal, onde descobri minha paixão por desenvolvimento web e a cada dia aprofundo meus conhecimentos, tanto em sala de aula com professores/alunos quanto fora com amigos da área profissional/redes de aprendizagem. Amante de tecnologia e suas tendências, sempre em busca de novos conhecimentos para agregar em sua carreira e vida.
 </div>
 
 ## 🔗 Links
