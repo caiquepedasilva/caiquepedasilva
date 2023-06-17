@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Caíque+Silva;Tenho+28+anos;Sou+Brasileiro!;Desenvolverdor+em+Treinamento;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Caíque+Silva;Tenho+29+anos;Sou+Brasileiro!;Desenvolverdor+em+Treinamento;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="justify">
 Sou aluno do instituto federal, onde descobri minha paixão por desenvolvimento web e a cada dia aprofundo meus conhecimentos, tanto em sala de aula com professores/alunos quanto fora com amigos da área profissional/redes de aprendizagem. Amante de tecnologia e suas tendências, sempre em busca de novos conhecimentos para agregar em sua carreira e vida.
