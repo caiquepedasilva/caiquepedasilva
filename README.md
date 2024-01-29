@@ -28,16 +28,6 @@ Sou aluno do instituto federal, onde descobri minha paixão por desenvolvimento 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-## GitHub Analytics 👨🏾‍💻
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquepedasilva&repo=github-readme-stats&hide_border=true&cache_seconds=86400&theme=radical&bg_color=0d1117" alt="caiquepedasilva's stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquepedasilva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img width="40%" height="195px" src="https://streak-stats.demolab.com/?user=caiquepedasilva&theme=radical&hide_border=true" /> 
-</div>
-  
-![Snake animation](https://github.com/caiquepedasilva/caiquepedasilva/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
